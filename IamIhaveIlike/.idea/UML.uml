@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="1497.9545454545455" y="265.0">PP</node>
+    <node x="1167.9545454545455" y="265.0">CAA</node>
+    <node x="739.0" y="877.0">Sat</node>
+    <node x="465.0" y="888.5">Tues</node>
+    <node x="939.0" y="23.5">Activity</node>
+    <node x="1338.9545454545455" y="174.0">Lectures</node>
+    <node x="147.0" y="877.0">Sun</node>
+    <node x="441.0" y="913.5">Mon</node>
+    <node x="1650.9545454545455" y="290.0">UC</node>
+    <node x="1387.9545454545455" y="265.0">Physics</node>
+    <node x="1277.9545454545455" y="265.0">DS</node>
+    <node x="1057.9545454545455" y="265.0">UKG</node>
+    <node x="405.75" y="0.0">Phone</node>
+    <node x="0.0" y="877.0">Thur</node>
+    <node x="937.0" y="174.0">Club</node>
+    <node x="340.75" y="601.0">Days</node>
+    <node x="294.0" y="877.0">Wed</node>
+    <node x="921.5" y="265.0">Rotaract</node>
+    <node x="428.0416666666667" y="1024.0">Life</node>
+    <node x="592.0" y="877.0">Fri</node>
+    <node x="971.1412556053813" y="1027.6726457399104">Main</node>
+    <node x="278.25" y="151.0">SunMyeong</node>
+  </nodes>
+  <notes>
+    <note x="1207.4545454545455" y="0.0">
+      <node>Lectures</node>
+      <value>UKG : 한국 행정의 이해(Understand to Korean Goverment)\nPhysics : 일반 물리학\nPP : 프로그래밍 프로젝트(Programming Project)\nDS : 자료 구조(Data Struct)\nCAA : 컴퓨터 응용 및 실습(Computer Application and Activity)\nUC : 컴퓨터의 이해(Understand to Computer)</value>
+      <edge>
+        <point x="19.5" y="-15.5" />
+        <point x="0.0" y="62.0" />
+      </edge>
+    </note>
+  </notes>
+  <edges>
+    <edge source="Life" target="Fri">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="CAA" target="Lectures">
+      <point x="0.0" y="-27.0" />
+      <point x="1212.9545454545455" y="235.0" />
+      <point x="1358.4545454545455" y="235.0" />
+      <point x="-19.5" y="15.5" />
+    </edge>
+    <edge source="Wed" target="Days">
+      <point x="0.0" y="-38.5" />
+      <point x="357.5" y="857.0" />
+      <point x="428.25" y="857.0" />
+      <point x="-52.5" y="108.0" />
+    </edge>
+    <edge source="Life" target="Sat">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="Sun" target="Days">
+      <point x="0.0" y="-38.5" />
+      <point x="210.5" y="847.0" />
+      <point x="393.25" y="847.0" />
+      <point x="-87.5" y="108.0" />
+    </edge>
+    <edge source="Mon" target="Days">
+      <point x="0.0" y="-2.0" />
+      <point x="443.0" y="857.0" />
+      <point x="463.25" y="857.0" />
+      <point x="-17.5" y="108.0" />
+    </edge>
+    <edge source="Club" target="Activity">
+      <point x="0.0" y="-15.5" />
+      <point x="-27.5" y="38.5" />
+    </edge>
+    <edge source="Physics" target="Lectures">
+      <point x="0.0" y="-27.0" />
+      <point x="1432.9545454545455" y="245.0" />
+      <point x="1384.4545454545455" y="245.0" />
+      <point x="6.5" y="15.5" />
+    </edge>
+    <edge source="Lectures" target="Activity">
+      <point x="-19.5" y="-15.5" />
+      <point x="1358.4545454545455" y="149.0" />
+      <point x="1021.5" y="149.0" />
+      <point x="27.5" y="38.5" />
+    </edge>
+    <edge source="Thur" target="Days">
+      <point x="0.0" y="-38.5" />
+      <point x="63.5" y="837.0" />
+      <point x="358.25" y="837.0" />
+      <point x="-122.5" y="108.0" />
+    </edge>
+    <edge source="Rotaract" target="Club">
+      <point x="0.0" y="-27.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="Life" target="Days">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="Fri" target="Days">
+      <point x="0.0" y="-38.5" />
+      <point x="655.5" y="857.0" />
+      <point x="533.25" y="857.0" />
+      <point x="52.5" y="108.0" />
+    </edge>
+    <edge source="UKG" target="Lectures">
+      <point x="0.0" y="-27.0" />
+      <point x="1102.9545454545455" y="225.0" />
+      <point x="1345.4545454545455" y="225.0" />
+      <point x="-32.5" y="15.5" />
+    </edge>
+    <edge source="Life" target="Thur">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="DS" target="Lectures">
+      <point x="0.0" y="-27.0" />
+      <point x="1322.9545454545455" y="245.0" />
+      <point x="1371.4545454545455" y="245.0" />
+      <point x="-6.5" y="15.5" />
+    </edge>
+    <edge source="PP" target="Lectures">
+      <point x="5.6843418860808015E-14" y="-27.0" />
+      <point x="1542.9545454545455" y="235.0" />
+      <point x="1397.4545454545455" y="235.0" />
+      <point x="19.5" y="15.5" />
+    </edge>
+    <edge source="Main" target="Life">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="Life" target="Mon">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="Life" target="Sun">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="Days" target="SunMyeong">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="Sat" target="Days">
+      <point x="0.0" y="-38.5" />
+      <point x="802.5" y="847.0" />
+      <point x="568.25" y="847.0" />
+      <point x="87.5" y="108.0" />
+    </edge>
+    <edge source="Life" target="Tues">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="Life" target="Wed">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="SunMyeong" target="Phone">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="UC" target="Lectures">
+      <point x="0.0" y="-27.0" />
+      <point x="1652.9545454545455" y="225.0" />
+      <point x="1410.4545454545455" y="225.0" />
+      <point x="32.5" y="15.5" />
+    </edge>
+    <edge source="Tues" target="Days">
+      <point x="0.0" y="-27.0" />
+      <point x="518.5" y="857.0" />
+      <point x="498.25" y="857.0" />
+      <point x="17.5" y="108.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.8123861566484517" x="849.2780269058296" y="619.0" />
+  <SelectedNodes>
+    <node>Main</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HCOnlineClient/HCOnlineClient.iml" filepath="$PROJECT_DIR$/HCOnlineClient/HCOnlineClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HCOnlineProtocol/HCOnlineProtocol.iml" filepath="$PROJECT_DIR$/HCOnlineProtocol/HCOnlineProtocol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HCOnlineServer/HCOnlineServer.iml" filepath="$PROJECT_DIR$/HCOnlineServer/HCOnlineServer.iml" />
+    </modules>
+  </component>
+</project>

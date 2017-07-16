@@ -1,0 +1,1564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="IamIhaveIlike:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8ba872e1-427d-4e5e-8c86-3fac6302c67c" name="Default" comment="" />
+    <ignored path="IamIhaveIlike.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="IamIhaveIlike" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="SunMyeong.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SunMyeong.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="27.647058" vertical-offset="2475" max-vertical-offset="3895">
+              <caret line="155" column="26" selection-start-line="155" selection-start-column="26" selection-end-line="155" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Life.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Life.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
+              <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Club.java" />
+        <option value="$PROJECT_DIR$/src/Schedule.java" />
+        <option value="$PROJECT_DIR$/src/Lectures.java" />
+        <option value="$PROJECT_DIR$/src/Activity.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/Wed.java" />
+        <option value="$PROJECT_DIR$/src/Phone.java" />
+        <option value="$PROJECT_DIR$/src/Life.java" />
+        <option value="$PROJECT_DIR$/src/CAA.java" />
+        <option value="$PROJECT_DIR$/src/DS.java" />
+        <option value="$PROJECT_DIR$/src/PP.java" />
+        <option value="$PROJECT_DIR$/src/Physics.java" />
+        <option value="$PROJECT_DIR$/src/Rotaract.java" />
+        <option value="$PROJECT_DIR$/src/UC.java" />
+        <option value="$PROJECT_DIR$/src/UKG.java" />
+        <option value="$PROJECT_DIR$/src/Fri.java" />
+        <option value="$PROJECT_DIR$/src/Mon.java" />
+        <option value="$PROJECT_DIR$/src/Tues.java" />
+        <option value="$PROJECT_DIR$/src/Thur.java" />
+        <option value="$PROJECT_DIR$/src/Sun.java" />
+        <option value="$PROJECT_DIR$/src/Days.java" />
+        <option value="$PROJECT_DIR$/src/SunMyeong.java" />
+        <option value="$PROJECT_DIR$/src/Sat.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="69" />
+    <option name="y" value="66" />
+    <option name="width" value="1267" />
+    <option name="height" value="873" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IamIhaveIlike" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IamIhaveIlike" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IamIhaveIlike" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IamIhaveIlike" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IamIhaveIlike" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IamIhaveIlike" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IamIhaveIlike" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="options.lastSelected" value="File.Encoding" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Life">
+    <configuration default="false" name="Life" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Life" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="IamIhaveIlike" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.Life" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.Life" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ba872e1-427d-4e5e-8c86-3fac6302c67c" name="Default" comment="" />
+      <created>1427854213227</created>
+      <option name="number" value="Default" />
+      <updated>1427854213227</updated>
+      <workItem from="1427854218132" duration="24126000" />
+      <workItem from="1427893492328" duration="1073000" />
+      <workItem from="1427895351150" duration="61000" />
+      <workItem from="1427895528970" duration="110000" />
+      <workItem from="1427895779858" duration="211000" />
+      <workItem from="1427896083021" duration="144000" />
+      <workItem from="1427896595657" duration="51000" />
+      <workItem from="1427896730372" duration="33000" />
+      <workItem from="1427896778557" duration="26000" />
+      <workItem from="1427897354078" duration="375000" />
+      <workItem from="1427897771100" duration="44000" />
+      <workItem from="1427899903289" duration="9000" />
+      <workItem from="1427937868962" duration="113000" />
+      <workItem from="1427943266509" duration="1403000" />
+      <workItem from="1427946483047" duration="1452000" />
+      <workItem from="1428020537866" duration="1341000" />
+      <workItem from="1428028875865" duration="651000" />
+      <workItem from="1428502993190" duration="2135000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="33358000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="69" y="66" width="1267" height="873" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.9398693" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16227019" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Days.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2527" max-vertical-offset="3496">
+          <caret line="184" column="52" selection-start-line="184" selection-start-column="52" selection-end-line="184" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/UML.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="1497.9545454545455" y="265.0">PP</node>
+            <node x="1167.9545454545455" y="265.0">CAA</node>
+            <node x="739.0" y="877.0">Sat</node>
+            <node x="465.0" y="888.5">Tues</node>
+            <node x="-55.0" y="-38.5">Activity</node>
+            <node x="-15.0" y="-15.0">Lectures</node>
+            <node x="441.0" y="913.5">Mon</node>
+            <node x="147.0" y="877.0">Sun</node>
+            <node x="1650.9545454545455" y="290.0">UC</node>
+            <node x="1387.9545454545455" y="265.0">Physics</node>
+            <node x="1277.9545454545455" y="265.0">DS</node>
+            <node x="1057.9545454545455" y="265.0">UKG</node>
+            <node x="0.0" y="877.0">Thur</node>
+            <node x="-15.0" y="-15.0">Club</node>
+            <node x="340.75" y="601.0">Days</node>
+            <node x="294.0" y="877.0">Wed</node>
+            <node x="921.5" y="265.0">Rotaract</node>
+            <node x="592.0" y="877.0">Fri</node>
+            <node x="278.25" y="151.0">SunMyeong</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="CAA" target="Lectures">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="Wed" target="Days">
+              <point x="0.0" y="-38.5" />
+              <point x="357.5" y="857.0" />
+              <point x="428.25" y="857.0" />
+              <point x="-52.5" y="108.0" />
+            </edge>
+            <edge source="Sun" target="Days">
+              <point x="0.0" y="-38.5" />
+              <point x="210.5" y="847.0" />
+              <point x="393.25" y="847.0" />
+              <point x="-87.5" y="108.0" />
+            </edge>
+            <edge source="PP" target="Lectures">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="Mon" target="Days">
+              <point x="0.0" y="-2.0" />
+              <point x="443.0" y="857.0" />
+              <point x="463.25" y="857.0" />
+              <point x="-17.5" y="108.0" />
+            </edge>
+            <edge source="Physics" target="Lectures">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="Club" target="Activity">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="Lectures" target="Activity">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="Sat" target="Days">
+              <point x="0.0" y="-38.5" />
+              <point x="802.5" y="847.0" />
+              <point x="568.25" y="847.0" />
+              <point x="87.5" y="108.0" />
+            </edge>
+            <edge source="Rotaract" target="Club">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="Thur" target="Days">
+              <point x="0.0" y="-38.5" />
+              <point x="63.5" y="837.0" />
+              <point x="358.25" y="837.0" />
+              <point x="-122.5" y="108.0" />
+            </edge>
+            <edge source="Fri" target="Days">
+              <point x="0.0" y="-38.5" />
+              <point x="655.5" y="857.0" />
+              <point x="533.25" y="857.0" />
+              <point x="52.5" y="108.0" />
+            </edge>
+            <edge source="UKG" target="Lectures">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="UC" target="Lectures">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="Tues" target="Days">
+              <point x="0.0" y="-27.0" />
+              <point x="518.5" y="857.0" />
+              <point x="498.25" y="857.0" />
+              <point x="17.5" y="108.0" />
+            </edge>
+            <edge source="DS" target="Lectures">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.8123861566484517" x="849.0" y="619.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Life.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="285">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Phone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="114">
+          <caret line="0" column="1" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SunMyeong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="57" max-vertical-offset="3895">
+          <caret line="30" column="46" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="228" max-vertical-offset="418">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Days.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2527" max-vertical-offset="3496">
+          <caret line="184" column="52" selection-start-line="184" selection-start-column="52" selection-end-line="184" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/UML.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="1497.9545454545455" y="265.0">PP</node>
+            <node x="1167.9545454545455" y="265.0">CAA</node>
+            <node x="739.0" y="877.0">Sat</node>
+            <node x="465.0" y="888.5">Tues</node>
+            <node x="939.0" y="23.5">Activity</node>
+            <node x="147.0" y="877.0">Sun</node>
+            <node x="441.0" y="913.5">Mon</node>
+            <node x="1338.9545454545455" y="174.0">Lectures</node>
+            <node x="1650.9545454545455" y="290.0">UC</node>
+            <node x="1387.9545454545455" y="265.0">Physics</node>
+            <node x="1277.9545454545455" y="265.0">DS</node>
+            <node x="1057.9545454545455" y="265.0">UKG</node>
+            <node x="405.75" y="0.0">Phone</node>
+            <node x="0.0" y="877.0">Thur</node>
+            <node x="937.0" y="174.0">Club</node>
+            <node x="340.75" y="601.0">Days</node>
+            <node x="294.0" y="877.0">Wed</node>
+            <node x="921.5" y="265.0">Rotaract</node>
+            <node x="428.0416666666667" y="1024.0">Life</node>
+            <node x="592.0" y="877.0">Fri</node>
+            <node x="278.25" y="151.0">SunMyeong</node>
+          </nodes>
+          <notes>
+            <note x="1207.4545454545455" y="0.0">
+              <node>Lectures</node>
+              <value>UKG : 한국 행정의 이해(Understand to Korean Goverment)\nPhysics : 일반 물리학\nPP : 프로그래밍 프로젝트(Programming Project)\nDS : 자료 구조(Data Struct)\nCAA : 컴퓨터 응용 및 실습(Computer Application and Activity)\nUC : 컴퓨터의 이해(Understand to Computer)</value>
+              <edge>
+                <point x="19.5" y="-15.5" />
+                <point x="0.0" y="62.0" />
+              </edge>
+            </note>
+          </notes>
+          <edges>
+            <edge source="CAA" target="Lectures">
+              <point x="0.0" y="-27.0" />
+              <point x="1212.9545454545455" y="235.0" />
+              <point x="1358.4545454545455" y="235.0" />
+              <point x="-19.5" y="15.5" />
+            </edge>
+            <edge source="Wed" target="Days">
+              <point x="0.0" y="-38.5" />
+              <point x="357.5" y="857.0" />
+              <point x="428.25" y="857.0" />
+              <point x="-52.5" y="108.0" />
+            </edge>
+            <edge source="Sun" target="Days">
+              <point x="0.0" y="-38.5" />
+              <point x="210.5" y="847.0" />
+              <point x="393.25" y="847.0" />
+              <point x="-87.5" y="108.0" />
+            </edge>
+            <edge source="PP" target="Lectures">
+              <point x="5.6843418860808015E-14" y="-27.0" />
+              <point x="1542.9545454545455" y="235.0" />
+              <point x="1397.4545454545455" y="235.0" />
+              <point x="19.5" y="15.5" />
+            </edge>
+            <edge source="Mon" target="Days">
+              <point x="0.0" y="-2.0" />
+              <point x="443.0" y="857.0" />
+              <point x="463.25" y="857.0" />
+              <point x="-17.5" y="108.0" />
+            </edge>
+            <edge source="Club" target="Activity">
+              <point x="0.0" y="-15.5" />
+              <point x="-27.5" y="38.5" />
+            </edge>
+            <edge source="Physics" target="Lectures">
+              <point x="0.0" y="-27.0" />
+              <point x="1432.9545454545455" y="245.0" />
+              <point x="1384.4545454545455" y="245.0" />
+              <point x="6.5" y="15.5" />
+            </edge>
+            <edge source="Lectures" target="Activity">
+              <point x="-19.5" y="-15.5" />
+              <point x="1358.4545454545455" y="149.0" />
+              <point x="1021.5" y="149.0" />
+              <point x="27.5" y="38.5" />
+            </edge>
+            <edge source="Sat" target="Days">
+              <point x="0.0" y="-38.5" />
+              <point x="802.5" y="847.0" />
+              <point x="568.25" y="847.0" />
+              <point x="87.5" y="108.0" />
+            </edge>
+            <edge source="Thur" target="Days">
+              <point x="0.0" y="-38.5" />
+              <point x="63.5" y="837.0" />
+              <point x="358.25" y="837.0" />
+              <point x="-122.5" y="108.0" />
+            </edge>
+            <edge source="Rotaract" target="Club">
+              <point x="0.0" y="-27.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="UKG" target="Lectures">
+              <point x="0.0" y="-27.0" />
+              <point x="1102.9545454545455" y="225.0" />
+              <point x="1345.4545454545455" y="225.0" />
+              <point x="-32.5" y="15.5" />
+            </edge>
+            <edge source="Fri" target="Days">
+              <point x="0.0" y="-38.5" />
+              <point x="655.5" y="857.0" />
+              <point x="533.25" y="857.0" />
+              <point x="52.5" y="108.0" />
+            </edge>
+            <edge source="UC" target="Lectures">
+              <point x="0.0" y="-27.0" />
+              <point x="1652.9545454545455" y="225.0" />
+              <point x="1410.4545454545455" y="225.0" />
+              <point x="32.5" y="15.5" />
+            </edge>
+            <edge source="Tues" target="Days">
+              <point x="0.0" y="-27.0" />
+              <point x="518.5" y="857.0" />
+              <point x="498.25" y="857.0" />
+              <point x="17.5" y="108.0" />
+            </edge>
+            <edge source="DS" target="Lectures">
+              <point x="0.0" y="-27.0" />
+              <point x="1322.9545454545455" y="245.0" />
+              <point x="1371.4545454545455" y="245.0" />
+              <point x="-6.5" y="15.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.8123861566484517" x="849.0" y="619.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Life.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="285">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Phone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="418" max-vertical-offset="551">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SunMyeong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="57" max-vertical-offset="3895">
+          <caret line="30" column="46" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="228" max-vertical-offset="418">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Days.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2527" max-vertical-offset="3496">
+          <caret line="184" column="52" selection-start-line="184" selection-start-column="52" selection-end-line="184" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/UML.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="1497.9545454545455" y="265.0">PP</node>
+            <node x="1167.9545454545455" y="265.0">CAA</node>
+            <node x="739.0" y="877.0">Sat</node>
+            <node x="465.0" y="888.5">Tues</node>
+            <node x="939.0" y="23.5">Activity</node>
+            <node x="1338.9545454545455" y="174.0">Lectures</node>
+            <node x="441.0" y="913.5">Mon</node>
+            <node x="147.0" y="877.0">Sun</node>
+            <node x="1650.9545454545455" y="290.0">UC</node>
+            <node x="1387.9545454545455" y="265.0">Physics</node>
+            <node x="1277.9545454545455" y="265.0">DS</node>
+            <node x="1057.9545454545455" y="265.0">UKG</node>
+            <node x="0.0" y="877.0">Thur</node>
+            <node x="405.75" y="0.0">Phone</node>
+            <node x="937.0" y="174.0">Club</node>
+            <node x="340.75" y="601.0">Days</node>
+            <node x="294.0" y="877.0">Wed</node>
+            <node x="921.5" y="265.0">Rotaract</node>
+            <node x="428.0416666666667" y="1024.0">Life</node>
+            <node x="592.0" y="877.0">Fri</node>
+            <node x="278.25" y="151.0">SunMyeong</node>
+          </nodes>
+          <notes>
+            <note x="1207.4545454545455" y="0.0">
+              <node>Lectures</node>
+              <value>UKG : 한국 행정의 이해(Understand to Korean Goverment)\nPhysics : 일반 물리학\nPP : 프로그래밍 프로젝트(Programming Project)\nDS : 자료 구조(Data Struct)\nCAA : 컴퓨터 응용 및 실습(Computer Application and Activity)\nUC : 컴퓨터의 이해(Understand to Computer)</value>
+              <edge>
+                <point x="19.5" y="-15.5" />
+                <point x="0.0" y="62.0" />
+              </edge>
+            </note>
+          </notes>
+          <edges>
+            <edge source="CAA" target="Lectures">
+              <point x="0.0" y="-27.0" />
+              <point x="1212.9545454545455" y="235.0" />
+              <point x="1358.4545454545455" y="235.0" />
+              <point x="-19.5" y="15.5" />
+            </edge>
+            <edge source="Wed" target="Days">
+              <point x="0.0" y="-38.5" />
+              <point x="357.5" y="857.0" />
+              <point x="428.25" y="857.0" />
+              <point x="-52.5" y="108.0" />
+            </edge>
+            <edge source="Sun" target="Days">
+              <point x="0.0" y="-38.5" />
+              <point x="210.5" y="847.0" />
+              <point x="393.25" y="847.0" />
+              <point x="-87.5" y="108.0" />
+            </edge>
+            <edge source="PP" target="Lectures">
+              <point x="5.6843418860808015E-14" y="-27.0" />
+              <point x="1542.9545454545455" y="235.0" />
+              <point x="1397.4545454545455" y="235.0" />
+              <point x="19.5" y="15.5" />
+            </edge>
+            <edge source="Mon" target="Days">
+              <point x="0.0" y="-2.0" />
+              <point x="443.0" y="857.0" />
+              <point x="463.25" y="857.0" />
+              <point x="-17.5" y="108.0" />
+            </edge>
+            <edge source="Club" target="Activity">
+              <point x="0.0" y="-15.5" />
+              <point x="-27.5" y="38.5" />
+            </edge>
+            <edge source="Physics" target="Lectures">
+              <point x="0.0" y="-27.0" />
+              <point x="1432.9545454545455" y="245.0" />
+              <point x="1384.4545454545455" y="245.0" />
+              <point x="6.5" y="15.5" />
+            </edge>
+            <edge source="Lectures" target="Activity">
+              <point x="-19.5" y="-15.5" />
+              <point x="1358.4545454545455" y="149.0" />
+              <point x="1021.5" y="149.0" />
+              <point x="27.5" y="38.5" />
+            </edge>
+            <edge source="Sat" target="Days">
+              <point x="0.0" y="-38.5" />
+              <point x="802.5" y="847.0" />
+              <point x="568.25" y="847.0" />
+              <point x="87.5" y="108.0" />
+            </edge>
+            <edge source="Thur" target="Days">
+              <point x="0.0" y="-38.5" />
+              <point x="63.5" y="837.0" />
+              <point x="358.25" y="837.0" />
+              <point x="-122.5" y="108.0" />
+            </edge>
+            <edge source="Rotaract" target="Club">
+              <point x="0.0" y="-27.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="UKG" target="Lectures">
+              <point x="0.0" y="-27.0" />
+              <point x="1102.9545454545455" y="225.0" />
+              <point x="1345.4545454545455" y="225.0" />
+              <point x="-32.5" y="15.5" />
+            </edge>
+            <edge source="Fri" target="Days">
+              <point x="0.0" y="-38.5" />
+              <point x="655.5" y="857.0" />
+              <point x="533.25" y="857.0" />
+              <point x="52.5" y="108.0" />
+            </edge>
+            <edge source="UC" target="Lectures">
+              <point x="0.0" y="-27.0" />
+              <point x="1652.9545454545455" y="225.0" />
+              <point x="1410.4545454545455" y="225.0" />
+              <point x="32.5" y="15.5" />
+            </edge>
+            <edge source="Tues" target="Days">
+              <point x="0.0" y="-27.0" />
+              <point x="518.5" y="857.0" />
+              <point x="498.25" y="857.0" />
+              <point x="17.5" y="108.0" />
+            </edge>
+            <edge source="DS" target="Lectures">
+              <point x="0.0" y="-27.0" />
+              <point x="1322.9545454545455" y="245.0" />
+              <point x="1371.4545454545455" y="245.0" />
+              <point x="-6.5" y="15.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.8123861566484517" x="849.0" y="619.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Life.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="285">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Phone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="418" max-vertical-offset="551">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SunMyeong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="57" max-vertical-offset="3895">
+          <caret line="30" column="46" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="228" max-vertical-offset="418">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Days.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2527" max-vertical-offset="3496">
+          <caret line="184" column="52" selection-start-line="184" selection-start-column="52" selection-end-line="184" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/UML.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="1497.9545454545455" y="265.0">PP</node>
+            <node x="1167.9545454545455" y="265.0">CAA</node>
+            <node x="739.0" y="877.0">Sat</node>
+            <node x="465.0" y="888.5">Tues</node>
+            <node x="939.0" y="23.5">Activity</node>
+            <node x="441.0" y="913.5">Mon</node>
+            <node x="1338.9545454545455" y="174.0">Lectures</node>
+            <node x="147.0" y="877.0">Sun</node>
+            <node x="1650.9545454545455" y="290.0">UC</node>
+            <node x="1387.9545454545455" y="265.0">Physics</node>
+            <node x="1277.9545454545455" y="265.0">DS</node>
+            <node x="1057.9545454545455" y="265.0">UKG</node>
+            <node x="405.75" y="0.0">Phone</node>
+            <node x="0.0" y="877.0">Thur</node>
+            <node x="937.0" y="174.0">Club</node>
+            <node x="340.75" y="601.0">Days</node>
+            <node x="294.0" y="877.0">Wed</node>
+            <node x="921.5" y="265.0">Rotaract</node>
+            <node x="428.0416666666667" y="1024.0">Life</node>
+            <node x="592.0" y="877.0">Fri</node>
+            <node x="278.25" y="151.0">SunMyeong</node>
+          </nodes>
+          <notes>
+            <note x="1207.4545454545455" y="0.0">
+              <node>Lectures</node>
+              <value>UKG : 한국 행정의 이해(Understand to Korean Goverment)\nPhysics : 일반 물리학\nPP : 프로그래밍 프로젝트(Programming Project)\nDS : 자료 구조(Data Struct)\nCAA : 컴퓨터 응용 및 실습(Computer Application and Activity)\nUC : 컴퓨터의 이해(Understand to Computer)</value>
+              <edge>
+                <point x="19.5" y="-15.5" />
+                <point x="0.0" y="62.0" />
+              </edge>
+            </note>
+          </notes>
+          <edges>
+            <edge source="CAA" target="Lectures">
+              <point x="0.0" y="-27.0" />
+              <point x="1212.9545454545455" y="235.0" />
+              <point x="1358.4545454545455" y="235.0" />
+              <point x="-19.5" y="15.5" />
+            </edge>
+            <edge source="Wed" target="Days">
+              <point x="0.0" y="-38.5" />
+              <point x="357.5" y="857.0" />
+              <point x="428.25" y="857.0" />
+              <point x="-52.5" y="108.0" />
+            </edge>
+            <edge source="Sun" target="Days">
+              <point x="0.0" y="-38.5" />
+              <point x="210.5" y="847.0" />
+              <point x="393.25" y="847.0" />
+              <point x="-87.5" y="108.0" />
+            </edge>
+            <edge source="PP" target="Lectures">
+              <point x="5.6843418860808015E-14" y="-27.0" />
+              <point x="1542.9545454545455" y="235.0" />
+              <point x="1397.4545454545455" y="235.0" />
+              <point x="19.5" y="15.5" />
+            </edge>
+            <edge source="Mon" target="Days">
+              <point x="0.0" y="-2.0" />
+              <point x="443.0" y="857.0" />
+              <point x="463.25" y="857.0" />
+              <point x="-17.5" y="108.0" />
+            </edge>
+            <edge source="Physics" target="Lectures">
+              <point x="0.0" y="-27.0" />
+              <point x="1432.9545454545455" y="245.0" />
+              <point x="1384.4545454545455" y="245.0" />
+              <point x="6.5" y="15.5" />
+            </edge>
+            <edge source="Club" target="Activity">
+              <point x="0.0" y="-15.5" />
+              <point x="-27.5" y="38.5" />
+            </edge>
+            <edge source="Lectures" target="Activity">
+              <point x="-19.5" y="-15.5" />
+              <point x="1358.4545454545455" y="149.0" />
+              <point x="1021.5" y="149.0" />
+              <point x="27.5" y="38.5" />
+            </edge>
+            <edge source="Sat" target="Days">
+              <point x="0.0" y="-38.5" />
+              <point x="802.5" y="847.0" />
+              <point x="568.25" y="847.0" />
+              <point x="87.5" y="108.0" />
+            </edge>
+            <edge source="Thur" target="Days">
+              <point x="0.0" y="-38.5" />
+              <point x="63.5" y="837.0" />
+              <point x="358.25" y="837.0" />
+              <point x="-122.5" y="108.0" />
+            </edge>
+            <edge source="Rotaract" target="Club">
+              <point x="0.0" y="-27.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="Fri" target="Days">
+              <point x="0.0" y="-38.5" />
+              <point x="655.5" y="857.0" />
+              <point x="533.25" y="857.0" />
+              <point x="52.5" y="108.0" />
+            </edge>
+            <edge source="UKG" target="Lectures">
+              <point x="0.0" y="-27.0" />
+              <point x="1102.9545454545455" y="225.0" />
+              <point x="1345.4545454545455" y="225.0" />
+              <point x="-32.5" y="15.5" />
+            </edge>
+            <edge source="Tues" target="Days">
+              <point x="0.0" y="-27.0" />
+              <point x="518.5" y="857.0" />
+              <point x="498.25" y="857.0" />
+              <point x="17.5" y="108.0" />
+            </edge>
+            <edge source="UC" target="Lectures">
+              <point x="0.0" y="-27.0" />
+              <point x="1652.9545454545455" y="225.0" />
+              <point x="1410.4545454545455" y="225.0" />
+              <point x="32.5" y="15.5" />
+            </edge>
+            <edge source="DS" target="Lectures">
+              <point x="0.0" y="-27.0" />
+              <point x="1322.9545454545455" y="245.0" />
+              <point x="1371.4545454545455" y="245.0" />
+              <point x="-6.5" y="15.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.8123861566484517" x="269.0" y="158.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="285">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Phone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="418" max-vertical-offset="551">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SunMyeong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="57" max-vertical-offset="3895">
+          <caret line="30" column="46" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="228" max-vertical-offset="418">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IamIhaveIlike.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="919">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_20/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="31889" max-vertical-offset="67070">
+          <caret line="1772" column="0" selection-start-line="1772" selection-start-column="0" selection-end-line="1772" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Physics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="266">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Phone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="437">
+          <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lectures.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="209">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Fri.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="361">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="304">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Activity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="247">
+          <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3355978" vertical-offset="0" max-vertical-offset="736">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thur.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07744565" vertical-offset="0" max-vertical-offset="736">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tues.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3097826" vertical-offset="0" max-vertical-offset="736">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10326087" vertical-offset="0" max-vertical-offset="736">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UKG.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10326087" vertical-offset="0" max-vertical-offset="736">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Wed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1290761" vertical-offset="0" max-vertical-offset="736">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CAA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18070652" vertical-offset="0" max-vertical-offset="736">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Rotaract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10326087" vertical-offset="0" max-vertical-offset="736">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Club.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10326087" vertical-offset="0" max-vertical-offset="736">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10326087" vertical-offset="0" max-vertical-offset="736">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/UML.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="" y="">PP</node>
+            <node x="" y="">CAA</node>
+            <node x="" y="">Sat</node>
+            <node x="" y="">Tues</node>
+            <node x="" y="">Activity</node>
+            <node x="" y="">Sun</node>
+            <node x="" y="">Mon</node>
+            <node x="" y="">Lectures</node>
+            <node x="" y="">UC</node>
+            <node x="" y="">Physics</node>
+            <node x="" y="">DS</node>
+            <node x="" y="">UKG</node>
+            <node x="" y="">Thur</node>
+            <node x="" y="">Phone</node>
+            <node x="" y="">Club</node>
+            <node x="" y="">Days</node>
+            <node x="" y="">Wed</node>
+            <node x="" y="">Rotaract</node>
+            <node x="" y="">Fri</node>
+            <node x="" y="">SunMyeong</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.8123861566484517" x="1543.0" y="873.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Mon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Days.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43485916" vertical-offset="3534" max-vertical-offset="4199">
+          <caret line="199" column="13" selection-start-line="199" selection-start-column="13" selection-end-line="199" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.124047875" vertical-offset="0" max-vertical-offset="919">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Life.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
+          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SunMyeong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="27.647058" vertical-offset="2475" max-vertical-offset="3895">
+          <caret line="155" column="26" selection-start-line="155" selection-start-column="26" selection-end-line="155" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>IamIhaveIlike:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>IamIhaveIlike</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
